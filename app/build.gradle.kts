@@ -14,7 +14,7 @@ android {
 
     defaultConfig {
         applicationId = "io.github.stardomains3.oxproxion"
-        minSdk = 34
+        minSdk = 33
         targetSdk = 36
         versionCode = 47
         versionName = "1.4.6"
